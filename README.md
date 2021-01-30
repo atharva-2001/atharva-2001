@@ -4,4 +4,4 @@ I am Atharva<br>
 Thanks for reading!<br></h3>
 </p>
 
-![](https://media.giphy.com/media/gkXJ9WxXkWBxu/giphy.gif
+![](https://media.giphy.com/media/gkXJ9WxXkWBxu/giphy.gif)
