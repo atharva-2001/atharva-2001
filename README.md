@@ -3,5 +3,5 @@
 </p>
 
 <div align = "center">
-<img src = "https://media.giphy.com/media/gkXJ9WxXkWBxu/giphy.gif">
+<img src = "https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif">
 </div>
